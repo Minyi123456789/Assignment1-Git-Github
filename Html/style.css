@@ -11,3 +11,8 @@ h1 {
     font-size: 20px;
     text-align: center;
 }
+
+/* Rule for selecting adjacent siblings */
+.sibling section + p {
+    color: red;
+}

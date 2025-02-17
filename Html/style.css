@@ -1,0 +1,13 @@
+/* External Styling */
+
+body {
+    background-color: rgb(234, 208, 213);
+}
+h1 {
+    text-align: center;
+}
+/* Selecting a class */
+.subtitle {
+    font-size: 20px;
+    text-align: center;
+}
